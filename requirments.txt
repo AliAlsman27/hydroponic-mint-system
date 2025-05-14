@@ -1,0 +1,4 @@
+adafruit-circuitpython-dht
+Adafruit-Blinka
+gpiozero
+blynk-library
